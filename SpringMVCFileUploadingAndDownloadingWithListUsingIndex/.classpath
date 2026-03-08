@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v10.1">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/annotations-api.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/aspectjrt-1.9.21.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/aspectjweaver-1.9.21.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/attoparser-2.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/classmate-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/commons-compress-1.25.0.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/commons-fileupload-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/commons-io-2.15.1.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/hibernate-validator-8.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/jackson-annotations-2.15.3.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/jackson-core-2.15.3.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/jackson-databind-2.15.3.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/jakarta.el-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/jakarta.persistence-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/jakarta.servlet.jsp.jstl-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/jakarta.servlet.jsp.jstl-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/jakarta.transaction-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/jakarta.xml.bind-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/jboss-logging-3.5.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/log4j-api-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/log4j-core-2.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/micrometer-commons-1.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/micrometer-core-1.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/micrometer-observation-1.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/ojdbc11.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/poi-5.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/poi-5.5.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/poi-ooxml-5.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/poi-ooxml-lite-5.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/slf4j-api-2.0.17.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/slf4j-simple-2.0.17.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-aop-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-aspects-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-beans-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-context-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-context-indexer-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-context-support-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-core-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-core-test-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-expression-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-instrument-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-jcl-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-jdbc-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-jms-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-messaging-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-orm-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-oxm-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-r2dbc-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-test-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-tx-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-web-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-webflux-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-webmvc-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/spring-websocket-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/thymeleaf-3.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/thymeleaf-extras-springsecurity6-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/thymeleaf-spring6-3.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/unbescape-1.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/jakarta.validation-api-3.0.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
