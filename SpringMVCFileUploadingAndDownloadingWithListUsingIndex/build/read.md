@@ -1,1 +1,1 @@
-This folder contains the package and Java class files.
+This folder contains the folder classes.
